@@ -133,4 +133,4 @@ model.learn(total_timesteps=10000)  # augmente ou diminue si nécessaire
 
 Projet réseau + IA — Université de la Manouba  
 A.U 2024-2025 — Cours : Fondements des Réseaux  
-Étudiant : Ahmed (ou ton prénom ici 😊)
+Étudiant : Ahmed chahdoura et youssef chtioui
